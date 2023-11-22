@@ -10,3 +10,6 @@ em strong {
 h1{
     color: rgb(0, 73, 168);
 }
+li{
+    text-align: left;
+}
