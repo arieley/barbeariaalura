@@ -4,6 +4,6 @@ body{
     text-align: center;
     
 }
-p{
-    text-decoration-color: dodgerblue;
+em strong {
+    color: cornflowerblue;
 }
