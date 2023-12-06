@@ -1,20 +1,22 @@
-
-body{
-    background: #cccccc ;
+body {
+    background: #cccccc;
     text-align: center;
-    
+
 }
+
 em strong {
-   color: dodgerblue;
+    color: dodgerblue;
 }
-h1{
+
+h1 {
     color: rgb(0, 73, 168);
 }
-li{
+
+li {
     text-align: left;
 
 }
 
-.banner{
+.banner {
     width: 100%;
 }
